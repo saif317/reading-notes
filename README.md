@@ -1,20 +1,21 @@
-### **Introduction**
+# **Reading Notes**
+
+## **Introduction**
 
 my name is Saif Momani and im a highly motivated junior Android developer experienced with Java and Kotlin languages.
 
-### **Contact Info**
+## **Contact Info**
 
 **Phone Number:** 0792850038  
 **Email:** saif.aq.momani@gmail.com  
 **GitHub:** _[saif317](https://github.com/saif317)_  
 **LinkedIn:** _[Saif Momani](https://www.linkedin.com/in/smomani/)_
 
-### **Growth Mindset**
+## **Table of Contents**
 
-Growth mindset is believing that any skill can be developed and **it's not fixed based on intelligence or talent**, developing any skill requires going through hardships and obstacles with effort and perseverance in order to learn any new skill.
-
-In the words of Albert Einstein:
-
-> Anyone who has never made a mistake has never tried anything new
-
-### this was added locally
+Reading | Link
+--------|------------
+Read01  |[The Coder's Computer](read01.md)
+Read02a |[Learning Markdown](read02a.md)
+Read02b |[Revisions and the Cloud](read02b.md)
+Read03a |[Structure web pages with HTML](read03a.md)
