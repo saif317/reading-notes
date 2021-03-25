@@ -13,9 +13,10 @@ my name is Saif Momani and im a highly motivated junior Android developer experi
 
 ## **Table of Contents**
 
-Reading | Link
---------|------------
-Read01  |[The Coder's Computer](read01.md)
-Read02a |[Learning Markdown](read02a.md)
-Read02b |[Revisions and the Cloud](read02b.md)
-Read03a |[Structure web pages with HTML](read03a.md)
+| Reading | Link                                        |
+| ------- | ------------------------------------------- |
+| Read01  | [The Coder's Computer](read01.md)           |
+| Read02a | [Learning Markdown](read02a.md)             |
+| Read02b | [Revisions and the Cloud](read02b.md)       |
+| Read03a | [Structure web pages with HTML](read03a.md) |
+| Read04  | [Programming with JavaScript](read04.md)    |

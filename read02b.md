@@ -6,7 +6,7 @@ the version control system creates a version of the files every time you make a 
 on a local version control system, every version is stored on a local database  
 on a centralized version control system, every version is shared on a server to which all collaborators have access.  
 the distributed version control system, allows collaborators to mirror the versions to prevent loss of data since there are multiple points of failure.  
-git is a distributed version control system.  
+git is a distributed version control system.
 
 ## History of Git
 
