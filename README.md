@@ -21,3 +21,4 @@ my name is Saif Momani and im a highly motivated junior Android developer experi
 | Read03a | [Structure web pages with HTML](read03a.md) |
 | Read04  | [Programming with JavaScript](read04.md)    |
 | Read05  | [Operators and Loops](read05.md)            |
+| Read06  | [Design web pages with CSS](read06.md)      |

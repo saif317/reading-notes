@@ -1,6 +1,8 @@
 # **Operators and Loops**
 
-- Expressions should be enclosed in parentheses
+<img src="https://1000logos.net/wp-content/uploads/2020/09/JavaScript-Logo.png" width="200">
+
+- Expressions should be enclosed in `()`
 
 - `&&` means `expression A` and `expression B`, so the two expresssions must be true
 

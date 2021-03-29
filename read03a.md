@@ -1,23 +1,25 @@
-# Structure web pages with HTML
+# **Structure web pages with HTML**
 
-The `<header>` element represents a container for introductory content or a set of navigational links.
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png" width="200">
 
-The `<footer>` tag defines a footer for a document or section.
+- The `<header>` element represents a container for introductory content or a set of navigational links.
 
-The `<nav>` tag defines a set of navigation links.
+- The `<footer>` tag defines a footer for a document or section.
 
-The `<article>` tag specifies independent, self-contained content.
+- The `<nav>` tag defines a set of navigation links.
 
-The `<aside>` tag defines some content aside from the content it is placed in.
+- The `<article>` tag specifies independent, self-contained content.
 
-The `<section>` tag defines a section in a document.
+- The `<aside>` tag defines some content aside from the content it is placed in.
 
-You can add comments to your HTML source by using the following syntax: `<!-- Write your comments here -->`
+- The `<section>` tag defines a section in a document.
 
-The HTML `id` attribute is used to specify a unique id for an HTML element.
+- You can add comments to your HTML source by using the following syntax: `<!-- Write your comments here -->`
 
-The HTML `class` attribute is used to specify a class for an HTML element.
+- The HTML `id` attribute is used to specify a unique id for an HTML element.
 
-The `<iframe>` tag specifies an inline frame, An inline frame is used to embed another document within the current HTML document.
+- The HTML `class` attribute is used to specify a class for an HTML element.
 
-The `<meta>` tag defines metadata about an HTML document. Metadata is data (information) about data.
+- The `<iframe>` tag specifies an inline frame, An inline frame is used to embed another document within the current HTML document.
+
+- The `<meta>` tag defines metadata about an HTML document. Metadata is data (information) about data.
