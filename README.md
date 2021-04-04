@@ -13,12 +13,20 @@ my name is Saif Momani and im a highly motivated junior Android developer experi
 
 ## **Table of Contents**
 
+### **Code 102**
+
 | Reading | Link                                        |
 | ------- | ------------------------------------------- |
-| Read01  | [The Coder's Computer](read01.md)           |
-| Read02a | [Learning Markdown](read02a.md)             |
-| Read02b | [Revisions and the Cloud](read02b.md)       |
-| Read03a | [Structure web pages with HTML](read03a.md) |
-| Read04  | [Programming with JavaScript](read04.md)    |
-| Read05  | [Operators and Loops](read05.md)            |
-| Read06  | [Design web pages with CSS](read06.md)      |
+| Read01  | [The Coder's Computer](Code101/read01.md)           |
+| Read02a | [Learning Markdown](Code101/read02a.md)             |
+| Read02b | [Revisions and the Cloud](Code101/read02b.md)       |
+| Read03a | [Structure web pages with HTML](Code101/read03a.md) |
+| Read04  | [Programming with JavaScript](Code101/read04.md)    |
+| Read05  | [Operators and Loops](Code101/read05.md)            |
+| Read06  | [Design web pages with CSS](Code101/read06.md)      |
+
+### **Code 201**
+
+| Reading | Link                                        |
+| ------- | ------------------------------------------- |
+| Read01  | [Introductory HTML and JavaScript](read01.md)           |
