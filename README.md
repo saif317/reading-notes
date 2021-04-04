@@ -15,8 +15,8 @@ my name is Saif Momani and im a highly motivated junior Android developer experi
 
 ### **Code 102**
 
-| Reading | Link                                        |
-| ------- | ------------------------------------------- |
+| Reading | Link                                                |
+| ------- | --------------------------------------------------- |
 | Read01  | [The Coder's Computer](Code101/read01.md)           |
 | Read02a | [Learning Markdown](Code101/read02a.md)             |
 | Read02b | [Revisions and the Cloud](Code101/read02b.md)       |
@@ -27,6 +27,6 @@ my name is Saif Momani and im a highly motivated junior Android developer experi
 
 ### **Code 201**
 
-| Reading | Link                                        |
-| ------- | ------------------------------------------- |
-| Read01  | [Introductory HTML and JavaScript](read01.md)           |
+| Reading | Link                                                  |
+| ------- | ----------------------------------------------------- |
+| Read01  | [Introductory HTML and JavaScript](Code201/read01.md) |
