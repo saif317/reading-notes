@@ -27,6 +27,7 @@ my name is Saif Momani and im a highly motivated junior Android developer experi
 
 ### **Code 201**
 
-| Reading | Link                                                  |
-| ------- | ----------------------------------------------------- |
-| Read01  | [Introductory HTML and JavaScript](Code201/read01.md) |
+| Reading | Link                                                                                |
+| ------- | ----------------------------------------------------------------------------------- |
+| Read01  | [Introductory HTML and JavaScript](Code201/read01.md)                               |
+| Read02  | [HTML Text, CSS Introduction, and Basic JavaScript Instructions](Code201/read02.md) |
