@@ -35,3 +35,4 @@ my name is Saif Momani and im a highly motivated junior Android developer experi
 | Read04  | [HTML Links, CSS Layout, JS Functions](Code201/read04.md)                           |
 | Read05  | [HTML Images, CSS Color & Text](Code201/read05.md)                                  |
 | Read06  | [JS Object Literals, The DOM](Code201/read06.md)                                    |
+| Read07  | [HTML Tables; JS Constructor Functions](Code201/read07.md)                          |
