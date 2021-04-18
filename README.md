@@ -40,3 +40,4 @@ my name is Saif Momani and im a highly motivated junior Android developer experi
 | Read09  | [Forms and Events](Code201/read09.md)                                               |
 | Read10  | [JS Debugging](Code201/read10.md)                                                   |
 | Read11  | [Assorted Topics](Code201/read11.md)                                                |
+| Read11  | [Docs for the HTML `<canvas>` Element & Chart.js](Code201/read12.md)                |
