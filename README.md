@@ -13,7 +13,7 @@ my name is Saif Momani and im a highly motivated junior Android developer experi
 
 ## **Table of Contents**
 
-### **Code 102**
+### **Code 102 - Intro to Software Development**
 
 | Reading | Link                                                |
 | ------- | --------------------------------------------------- |
@@ -25,7 +25,7 @@ my name is Saif Momani and im a highly motivated junior Android developer experi
 | Read05  | [Operators and Loops](Code101/read05.md)            |
 | Read06  | [Design web pages with CSS](Code101/read06.md)      |
 
-### **Code 201**
+### **Code 201 - Foundations of Software Development**
 
 | Reading | Link                                                                                |
 | ------- | ----------------------------------------------------------------------------------- |
@@ -42,3 +42,5 @@ my name is Saif Momani and im a highly motivated junior Android developer experi
 | Read11  | [Assorted Topics](Code201/read11.md)                                                |
 | Read12  | [Docs for the HTML `<canvas>` Element & Chart.js](Code201/read12.md)                |
 | Read13  | [Local Storage](Code201/read13.md)                                                  |
+
+### **Code 301 - Intermediate Software Development**
