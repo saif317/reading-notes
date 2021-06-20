@@ -44,3 +44,8 @@ my name is Saif Momani and im a highly motivated junior Android developer experi
 | Read13  | [Local Storage](Code201/read13.md)                                                  |
 
 ### **Code 301 - Intermediate Software Development**
+
+| Reading | Link                                                                                |
+| ------- | ----------------------------------------------------------------------------------- |
+| Read01  | [Introduction to React and Components](Code301/read01.md)                           |
+| Read02  | [HTML Text, CSS Introduction, and Basic JavaScript Instructions](Code201/read02.md) |
