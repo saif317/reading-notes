@@ -8,7 +8,7 @@
 
 **Q: What are the charactistics of a component?**
 
-- Reusability − Components are usually designed to be reused in different situations in different applications. However, some components may be designed for a specific task.
+> - Reusability − Components are usually designed to be reused in different situations in different applications. However, some components may be designed for a specific task.
 
 - Replaceable − Components may be freely substituted with other similar components.
 
@@ -19,8 +19,6 @@
 - Encapsulated − A A component depicts the interfaces, which allow the caller to use its functionality, and do not expose details of the internal processes or any internal variables or state.
 
 - Independent − Components are designed to have minimal dependencies on other components.
-
-> The secret to creativity is knowing how to hide your sources. 
-> -- <cite>[Albert Einstein][1]</cite>
+  > -- <cite>[Albert Einstein][1]</cite>
 
 [1]: http://www.quotedb.com/quotes/2112
