@@ -48,4 +48,6 @@ my name is Saif Momani and im a highly motivated junior Android developer experi
 | Reading | Link                                                                                |
 | ------- | ----------------------------------------------------------------------------------- |
 | Read01  | [Introduction to React and Components](Code301/read01.md)                           |
-| Read02  | [HTML Text, CSS Introduction, and Basic JavaScript Instructions](Code201/read02.md) |
+| Read02  | [HTML Text, CSS Introduction, and Basic JavaScript Instructions](Code301/read02.md) |
+| Read03  | [State and Props](Code301/read03.md)                                                |
+| Read04  | [React and Forms](Code301/read04.md)                                                |
