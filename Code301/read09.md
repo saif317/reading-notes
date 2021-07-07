@@ -1,3 +1,5 @@
+# **FUNCTIONAL PROGRAMMING**
+
 <img src="https://reactjs.org/logo-og.png" width="200">
 
 **Q: What is functional programming?**
