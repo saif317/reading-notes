@@ -57,3 +57,7 @@ my name is Saif Momani and im a highly motivated junior Android developer experi
 | Read08  | [APIs](Code301/read08.md)                                                           |
 | Read09  | [FUNCTIONAL PROGRAMMING](Code301/read09.md)                                         |
 | Read10  | [In memory storage](Code301/read10.md)                                              |
+| Read11  | [In memory storage](Code301/read11.md)                                              |
+| Read12  | [Mongo and Mongoose](Code301/read12.md)                                             |
+| Read13  | [CRUD](Code301/read13.md)                                                           |
+| Read14  | [Diversity & Inclusion in the Tech Industry](Code301/read14.md)                     |
