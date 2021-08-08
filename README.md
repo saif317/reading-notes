@@ -61,3 +61,10 @@ my name is Saif Momani and im a highly motivated junior Android developer experi
 | Read12  | [Mongo and Mongoose](Code301/read12.md)                                             |
 | Read13  | [CRUD](Code301/read13.md)                                                           |
 | Read14  | [Diversity & Inclusion in the Tech Industry](Code301/read14.md)                     |
+
+### **Code 401 - Advanced Software Development**
+
+| Reading | Link                                                                                |
+| ------- | ----------------------------------------------------------------------------------- |
+| Read01  | [Node Ecosystem, TDD, CI/CD](Code401/read01.md)                           |
+| Read02  | [Express](Code401/read02.md) |
