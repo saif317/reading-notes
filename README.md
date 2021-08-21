@@ -69,4 +69,5 @@ my name is Saif Momani and im a highly motivated junior Android developer experi
 | Read01  | [Node Ecosystem, TDD, CI/CD](Code401/read01.md)                           |
 | Read02  | [Express](Code401/read02.md) |
 | Read03  | [Express REST API](Code401/read03.md) |
+| Read04  | [Data Modeling](Code401/read04.md) |
 
