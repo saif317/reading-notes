@@ -72,3 +72,4 @@ my name is Saif Momani and im a highly motivated junior Android developer experi
 | Read04  | [Data Modeling](Code401/read04.md)              |
 | Read06  | [Authentication](Code401/read06.md)             |
 | Read07  | [Bearer Authorization](Code401/read07.md)       |
+| Read08  | [Access Control](Code401/read08.md)             |
