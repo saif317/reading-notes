@@ -64,12 +64,13 @@ my name is Saif Momani and im a highly motivated junior Android developer experi
 
 ### **Code 401 - Advanced Software Development**
 
-| Reading | Link                                            |
-| ------- | ----------------------------------------------- |
-| Read01  | [Node Ecosystem, TDD, CI/CD](Code401/read01.md) |
-| Read02  | [Express](Code401/read02.md)                    |
-| Read03  | [Express REST API](Code401/read03.md)           |
-| Read04  | [Data Modeling](Code401/read04.md)              |
-| Read06  | [Authentication](Code401/read06.md)             |
-| Read07  | [Bearer Authorization](Code401/read07.md)       |
-| Read08  | [Access Control](Code401/read08.md)             |
+| Reading | Link                                              |
+| ------- | ------------------------------------------------- |
+| Read01  | [Node Ecosystem, TDD, CI/CD](Code401/read01.md)   |
+| Read02  | [Express](Code401/read02.md)                      |
+| Read03  | [Express REST API](Code401/read03.md)             |
+| Read04  | [Data Modeling](Code401/read04.md)                |
+| Read06  | [Authentication](Code401/read06.md)               |
+| Read07  | [Bearer Authorization](Code401/read07.md)         |
+| Read08  | [Access Control](Code401/read08.md)               |
+| Read09  | [Authorization/Authentication](Code401/read09.md) |
