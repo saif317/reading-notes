@@ -74,3 +74,4 @@ my name is Saif Momani and im a highly motivated junior Android developer experi
 | Read07  | [Bearer Authorization](Code401/read07.md)         |
 | Read08  | [Access Control](Code401/read08.md)               |
 | Read09  | [Authorization/Authentication](Code401/read09.md) |
+| Read10  | [Stacks and Queues](Code401/read10.md)            |
