@@ -76,3 +76,4 @@ my name is Saif Momani and im a highly motivated junior Android developer experi
 | Read09  | [Authorization/Authentication](Code401/read09.md) |
 | Read10  | [Stacks and Queues](Code401/read10.md)            |
 | Read11  | [Event Driven Applications](Code401/read11.md)    |
+| Read12  | [Socket.io](Code401/read12.md)                    |
