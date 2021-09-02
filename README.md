@@ -82,3 +82,4 @@ my name is Saif Momani and im a highly motivated junior Android developer experi
 | Read15  | [Trees](Code401/read15.md)                        |
 | Read16  | [AWS: Cloud Servers](Code401/read16.md)           |
 | Read17  | [AWS: S3 and Lambda](Code401/read17.md)           |
+| Read18  | [AWS: API, Dynamo and Lambda](Code401/read18.md)  |
