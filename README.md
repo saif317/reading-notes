@@ -86,3 +86,4 @@ my name is Saif Momani and im a highly motivated junior Android developer experi
 | Read26  | [Component Based UI](Code401/read26.md)           |
 | Read27  | [useState() Hook](Code401/read27.md)              |
 | Read28  | [Component Lifecycle](Code401/read28.md)          |
+| Read29  | [Advanced State with Reducers](Code401/read29.md) |
