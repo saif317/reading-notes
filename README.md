@@ -84,4 +84,5 @@ my name is Saif Momani and im a highly motivated junior Android developer experi
 | Read17  | [AWS: S3 and Lambda](Code401/read17.md)           |
 | Read18  | [AWS: API, Dynamo and Lambda](Code401/read18.md)  |
 | Read26  | [Component Based UI](Code401/read26.md)           |
-| Read27  | [useState() Hook](Code401/read27.md)           |
+| Read27  | [useState() Hook](Code401/read27.md)              |
+| Read28  | [Component Lifecycle](Code401/read28.md)          |
